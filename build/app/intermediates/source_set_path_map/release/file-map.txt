@@ -1,0 +1,52 @@
+com.mycompany.pegcrypto.app-jetified-savedstate-1.2.1-0 C:\Users\Gallager\.gradle\caches\transforms-3\000344b77a2dfc475dea4ae446a7aadb\transformed\jetified-savedstate-1.2.1\res
+com.mycompany.pegcrypto.app-core-1.13.1-1 C:\Users\Gallager\.gradle\caches\transforms-3\01b7573ff4a05444d41174f4d68105b3\transformed\core-1.13.1\res
+com.mycompany.pegcrypto.app-jetified-core-ktx-1.13.1-2 C:\Users\Gallager\.gradle\caches\transforms-3\0cba679bd6e49a977bf4641aaf5eff81\transformed\jetified-core-ktx-1.13.1\res
+com.mycompany.pegcrypto.app-jetified-lifecycle-process-2.7.0-3 C:\Users\Gallager\.gradle\caches\transforms-3\1501e7a5391a87e163bbde1ae33ea5ab\transformed\jetified-lifecycle-process-2.7.0\res
+com.mycompany.pegcrypto.app-jetified-datastore-1.0.0-4 C:\Users\Gallager\.gradle\caches\transforms-3\221f9d4e5e189a1347fec93adb6c452b\transformed\jetified-datastore-1.0.0\res
+com.mycompany.pegcrypto.app-lifecycle-livedata-core-2.7.0-5 C:\Users\Gallager\.gradle\caches\transforms-3\2ca8d5a1ce80667ad20d8c65d6ce159a\transformed\lifecycle-livedata-core-2.7.0\res
+com.mycompany.pegcrypto.app-jetified-profileinstaller-1.3.1-6 C:\Users\Gallager\.gradle\caches\transforms-3\2ffd5c60767669cc4daa7310704b6ec9\transformed\jetified-profileinstaller-1.3.1\res
+com.mycompany.pegcrypto.app-jetified-play-services-basement-18.3.0-7 C:\Users\Gallager\.gradle\caches\transforms-3\351c0bc6cd12a17abbbefed8e4973555\transformed\jetified-play-services-basement-18.3.0\res
+com.mycompany.pegcrypto.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-8 C:\Users\Gallager\.gradle\caches\transforms-3\4d8a1abead5c3a49357d85e6e1dd9ff9\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.mycompany.pegcrypto.app-browser-1.8.0-9 C:\Users\Gallager\.gradle\caches\transforms-3\56e478b5ecd89c6811fcb65b17b6ddcc\transformed\browser-1.8.0\res
+com.mycompany.pegcrypto.app-appcompat-1.2.0-10 C:\Users\Gallager\.gradle\caches\transforms-3\5c7bbe475573d9c4ceac57c0ec79edbe\transformed\appcompat-1.2.0\res
+com.mycompany.pegcrypto.app-jetified-firebase-common-21.0.0-11 C:\Users\Gallager\.gradle\caches\transforms-3\6628a6799e65706b779ad896af808c7d\transformed\jetified-firebase-common-21.0.0\res
+com.mycompany.pegcrypto.app-jetified-appcompat-resources-1.2.0-12 C:\Users\Gallager\.gradle\caches\transforms-3\6a701759f787deda99f0c0e49708712f\transformed\jetified-appcompat-resources-1.2.0\res
+com.mycompany.pegcrypto.app-jetified-activity-1.9.1-13 C:\Users\Gallager\.gradle\caches\transforms-3\6f09494f96d001d9fee03f7987b10d7c\transformed\jetified-activity-1.9.1\res
+com.mycompany.pegcrypto.app-jetified-media3-exoplayer-1.4.1-14 C:\Users\Gallager\.gradle\caches\transforms-3\7798a636ac784ab4ebb648a95b21f915\transformed\jetified-media3-exoplayer-1.4.1\res
+com.mycompany.pegcrypto.app-jetified-lifecycle-livedata-core-ktx-2.7.0-15 C:\Users\Gallager\.gradle\caches\transforms-3\82747e0e691e2dfb55ab0b33d09ca363\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.mycompany.pegcrypto.app-jetified-security-crypto-1.1.0-alpha06-16 C:\Users\Gallager\.gradle\caches\transforms-3\84b1483e8dcae66318d05968cbad01c9\transformed\jetified-security-crypto-1.1.0-alpha06\res
+com.mycompany.pegcrypto.app-jetified-window-java-1.2.0-17 C:\Users\Gallager\.gradle\caches\transforms-3\897398ea9341ac8c1078da2bb04840d6\transformed\jetified-window-java-1.2.0\res
+com.mycompany.pegcrypto.app-lifecycle-livedata-2.7.0-18 C:\Users\Gallager\.gradle\caches\transforms-3\97e7225af07c69bbce9a3b7d808d43e6\transformed\lifecycle-livedata-2.7.0\res
+com.mycompany.pegcrypto.app-jetified-core-1.0.0-19 C:\Users\Gallager\.gradle\caches\transforms-3\b89ca1c9c1eef6f11fe840f5306acb24\transformed\jetified-core-1.0.0\res
+com.mycompany.pegcrypto.app-core-runtime-2.2.0-20 C:\Users\Gallager\.gradle\caches\transforms-3\bced4c6960762e466479d625b1514993\transformed\core-runtime-2.2.0\res
+com.mycompany.pegcrypto.app-jetified-tracing-1.2.0-21 C:\Users\Gallager\.gradle\caches\transforms-3\c80003518f909abe4896644da5fb05c8\transformed\jetified-tracing-1.2.0\res
+com.mycompany.pegcrypto.app-jetified-datastore-preferences-1.0.0-22 C:\Users\Gallager\.gradle\caches\transforms-3\d2e380a7df4ab114c9fde6c999eae854\transformed\jetified-datastore-preferences-1.0.0\res
+com.mycompany.pegcrypto.app-lifecycle-runtime-2.7.0-23 C:\Users\Gallager\.gradle\caches\transforms-3\d43cb472532316b2ed10b2d5f1fb6fef\transformed\lifecycle-runtime-2.7.0\res
+com.mycompany.pegcrypto.app-fragment-1.7.1-24 C:\Users\Gallager\.gradle\caches\transforms-3\d50b4bc56bebe2be7648c654893dc2c6\transformed\fragment-1.7.1\res
+com.mycompany.pegcrypto.app-lifecycle-viewmodel-2.7.0-25 C:\Users\Gallager\.gradle\caches\transforms-3\daf7da2b3ac06b20530e33deefc26402\transformed\lifecycle-viewmodel-2.7.0\res
+com.mycompany.pegcrypto.app-jetified-startup-runtime-1.1.1-26 C:\Users\Gallager\.gradle\caches\transforms-3\ebbc87ba508851546f943f411eb2fdef\transformed\jetified-startup-runtime-1.1.1\res
+com.mycompany.pegcrypto.app-jetified-window-1.2.0-27 C:\Users\Gallager\.gradle\caches\transforms-3\f786d6dbd59738814bdce69e66cd8de4\transformed\jetified-window-1.2.0\res
+com.mycompany.pegcrypto.app-jetified-annotation-experimental-1.4.0-28 C:\Users\Gallager\.gradle\caches\transforms-3\fc3b90efe43951c2455d642e86c961e8\transformed\jetified-annotation-experimental-1.4.0\res
+com.mycompany.pegcrypto.app-main-29 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\android\app\src\main\res
+com.mycompany.pegcrypto.app-release-30 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\android\app\src\release\res
+com.mycompany.pegcrypto.app-google-services-31 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\app\generated\res\google-services\release
+com.mycompany.pegcrypto.app-pngs-32 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\app\generated\res\pngs\release
+com.mycompany.pegcrypto.app-resValues-33 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\app\generated\res\resValues\release
+com.mycompany.pegcrypto.app-packageReleaseResources-34 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\app\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.mycompany.pegcrypto.app-packageReleaseResources-35 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\app\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.mycompany.pegcrypto.app-merged-not-compiled-resources-36 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\app\intermediates\merged-not-compiled-resources\release
+com.mycompany.pegcrypto.app-merged_res-37 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\app\intermediates\merged_res\release
+com.mycompany.pegcrypto.app-packaged_res-38 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\document_file_save_plus\intermediates\packaged_res\release
+com.mycompany.pegcrypto.app-packaged_res-39 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\file_picker\intermediates\packaged_res\release
+com.mycompany.pegcrypto.app-packaged_res-40 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\firebase_core\intermediates\packaged_res\release
+com.mycompany.pegcrypto.app-packaged_res-41 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\firebase_performance\intermediates\packaged_res\release
+com.mycompany.pegcrypto.app-packaged_res-42 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+com.mycompany.pegcrypto.app-packaged_res-43 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\flutter_secure_storage\intermediates\packaged_res\release
+com.mycompany.pegcrypto.app-packaged_res-44 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\image_gallery_saver\intermediates\packaged_res\release
+com.mycompany.pegcrypto.app-packaged_res-45 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\image_picker_android\intermediates\packaged_res\release
+com.mycompany.pegcrypto.app-packaged_res-46 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\path_provider_android\intermediates\packaged_res\release
+com.mycompany.pegcrypto.app-packaged_res-47 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\share_plus\intermediates\packaged_res\release
+com.mycompany.pegcrypto.app-packaged_res-48 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\shared_preferences_android\intermediates\packaged_res\release
+com.mycompany.pegcrypto.app-packaged_res-49 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\sqflite\intermediates\packaged_res\release
+com.mycompany.pegcrypto.app-packaged_res-50 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\url_launcher_android\intermediates\packaged_res\release
+com.mycompany.pegcrypto.app-packaged_res-51 C:\Users\Gallager\Downloads\p_e_g_crypto (12)\p_e_g_crypto\build\video_player_android\intermediates\packaged_res\release

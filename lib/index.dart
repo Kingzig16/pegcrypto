@@ -1,0 +1,36 @@
+// Export pages
+export '/pages/home_page/home_page_widget.dart' show HomePageWidget;
+export '/login/login_widget.dart' show LoginWidget;
+export '/home/home_widget.dart' show HomeWidget;
+export '/profil/profil_widget.dart' show ProfilWidget;
+export '/parametres/parametres_widget.dart' show ParametresWidget;
+export '/email_verif/email_verif_widget.dart' show EmailVerifWidget;
+export '/exchange/exchange_widget.dart' show ExchangeWidget;
+export '/completeprofil/completeprofil_widget.dart' show CompleteprofilWidget;
+export '/identitycard/identitycard_widget.dart' show IdentitycardWidget;
+export '/profiledit/profiledit_widget.dart' show ProfileditWidget;
+export '/projets/projets_widget.dart' show ProjetsWidget;
+export '/cryptodetail/cryptodetail_widget.dart' show CryptodetailWidget;
+export '/test/test_widget.dart' show TestWidget;
+export '/projetdetail/projetdetail_widget.dart' show ProjetdetailWidget;
+export '/echangedetail/echangedetail_widget.dart' show EchangedetailWidget;
+export '/chats/chats_widget.dart' show ChatsWidget;
+export '/agent/agent_widget.dart' show AgentWidget;
+export '/affiliation/affiliation_widget.dart' show AffiliationWidget;
+export '/addpub/addpub_widget.dart' show AddpubWidget;
+export '/agentusers/agentusers_widget.dart' show AgentusersWidget;
+export '/validercrypto/validercrypto_widget.dart' show ValidercryptoWidget;
+export '/validerprojet/validerprojet_widget.dart' show ValiderprojetWidget;
+export '/validerechange/validerechange_widget.dart' show ValiderechangeWidget;
+export '/publicite/publicite_widget.dart' show PubliciteWidget;
+export '/modifierpub/modifierpub_widget.dart' show ModifierpubWidget;
+export '/rush/rush_widget.dart' show RushWidget;
+export '/termes_conditions/termes_conditions_widget.dart'
+    show TermesConditionsWidget;
+export '/motdepasse2/motdepasse2_widget.dart' show Motdepasse2Widget;
+export '/motdepasse1/motdepasse1_widget.dart' show Motdepasse1Widget;
+export '/copyright/copyright_widget.dart' show CopyrightWidget;
+export '/helpcenter/helpcenter_widget.dart' show HelpcenterWidget;
+export '/contactsupport/contactsupport_widget.dart' show ContactsupportWidget;
+export '/a_propos/a_propos_widget.dart' show AProposWidget;
+export '/testt/testt_widget.dart' show TesttWidget;
