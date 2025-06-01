@@ -1,0 +1,53 @@
+# Fichiers générés par Flutter/Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.pub-cache/
+.pub/
+build/
+.idea/
+.vscode/
+.melos_tool/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/.symlinks/
+ios/Podfile.lock
+
+# Android
+android/.gradle/
+android/app/build/
+android/gradle/
+android/local.properties
+
+# Web
+web/.dart_tool/
+
+# MacOS
+macos/Flutter/Flutter.framework
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/build/
+
+# Linux
+linux/build/
+
+# Windows
+windows/build/
+
+# Fichiers jetbrains (Android Studio)
+*.iml
+*.ipr
+*.iws
+*.idea/
+
+# Autres
+*.log
+*.lock
+*.DS_Store
+.env
