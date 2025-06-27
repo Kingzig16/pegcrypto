@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:flutter_animate/flutter_animate.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:provider/provider.dart';
 
 import '/backend/api_requests/api_calls.dart';
@@ -1629,27 +1628,6 @@ class _LoginWidgetState extends State<LoginWidget>
                       ],
                     ),
                   ],
-                ),
-                Row(
-                  mainAxisSize: MainAxisSize.max,
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: [
-                    FaIcon(
-                      FontAwesomeIcons.gofore,
-                      color: FlutterFlowTheme.of(context).secondary,
-                      size: 24.0,
-                    ),
-                    Icon(
-                      Icons.facebook_rounded,
-                      color: FlutterFlowTheme.of(context).secondary,
-                      size: 24.0,
-                    ),
-                    Icon(
-                      Icons.apple_sharp,
-                      color: FlutterFlowTheme.of(context).secondary,
-                      size: 27.0,
-                    ),
-                  ].divide(SizedBox(width: 20.0)),
                 ),
               ],
             ),
